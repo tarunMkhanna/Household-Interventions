@@ -1,0 +1,24 @@
+SocialComparison,Feedback,MonetaryIncentives,Motivation,Information,model1, beta , se , pvalues , upper_lim , lower_lim ,M,All,order,label
+1,0,0,0,0,SocialComparison1:Feedback0:MonetaryIncentives0:Motivation0:Information0, 0.10 , 0.05 , 0.05 , 0.19 , 0.00 ,300,1,1,Social Comparison
+0,1,0,0,0,SocialComparison0:Feedback1:MonetaryIncentives0:Motivation0:Information0, 0.12 , 0.03 , 0.00 , 0.19 , 0.06 ,300,1,1,Feedback
+1,1,0,0,0,SocialComparison1:Feedback1:MonetaryIncentives0:Motivation0:Information0, 0.12 , 0.04 , 0.00 , 0.19 , 0.05 ,300,1,2,Feedback+Social
+0,0,1,0,0,SocialComparison0:Feedback0:MonetaryIncentives1:Motivation0:Information0, 0.21 , 0.05 , 0.00 , 0.30 , 0.12 ,300,1,1,Monetary Incentives
+1,0,1,0,0,SocialComparison1:Feedback0:MonetaryIncentives1:Motivation0:Information0, 0.02 , 0.06 , 0.80 , 0.13 , -0.10 ,300,1,2,Social+Monetary
+0,1,1,0,0,SocialComparison0:Feedback1:MonetaryIncentives1:Motivation0:Information0, 0.17 , 0.05 , 0.00 , 0.26 , 0.08 ,300,1,2,Feedback+Monetary
+1,1,1,0,0,SocialComparison1:Feedback1:MonetaryIncentives1:Motivation0:Information0, 0.35 , 0.12 , 0.00 , 0.58 , 0.12 ,300,1,3,Social+Monetary+Feedback
+0,0,0,1,0,SocialComparison0:Feedback0:MonetaryIncentives0:Motivation1:Information0, 0.10 , 0.05 , 0.06 , 0.21 , 0.00 ,300,1,1,Motivation
+0,1,0,1,0,SocialComparison0:Feedback1:MonetaryIncentives0:Motivation1:Information0, 0.16 , 0.04 , 0.00 , 0.24 , 0.07 ,300,1,2,Feedback+Motivation
+1,1,0,1,0,SocialComparison1:Feedback1:MonetaryIncentives0:Motivation1:Information0, 0.21 , 0.07 , 0.00 , 0.35 , 0.07 ,300,1,3,Social+Feedback+Motivation
+0,0,1,1,0,SocialComparison0:Feedback0:MonetaryIncentives1:Motivation1:Information0, 0.09 , 0.13 , 0.46 , 0.34 , -0.16 ,300,1,2,Monetary+Motivation
+1,0,1,1,0,SocialComparison1:Feedback0:MonetaryIncentives1:Motivation1:Information0, 0.10 , 0.14 , 0.48 , 0.38 , -0.18 ,300,1,3,Social+Monetary+Motivation
+0,1,1,1,0,SocialComparison0:Feedback1:MonetaryIncentives1:Motivation1:Information0, 0.48 , 0.16 , 0.00 , 0.79 , 0.17 ,300,1,3,Feedback+Monetary+Motivation
+0,0,0,0,1,SocialComparison0:Feedback0:MonetaryIncentives0:Motivation0:Information1, 0.15 , 0.05 , 0.00 , 0.24 , 0.06 ,300,1,1,Information
+1,0,0,0,1,SocialComparison1:Feedback0:MonetaryIncentives0:Motivation0:Information1, 0.18 , 0.05 , 0.00 , 0.28 , 0.08 ,300,1,2,Social+Information
+0,1,0,0,1,SocialComparison0:Feedback1:MonetaryIncentives0:Motivation0:Information1, 0.17 , 0.04 , 0.00 , 0.25 , 0.09 ,300,1,2,Feedback+Information
+1,1,0,0,1,SocialComparison1:Feedback1:MonetaryIncentives0:Motivation0:Information1, 0.13 , 0.03 , 0.00 , 0.20 , 0.06 ,300,1,3,Social+Feedback+Information
+0,0,1,0,1,SocialComparison0:Feedback0:MonetaryIncentives1:Motivation0:Information1, 0.06 , 0.17 , 0.73 , 0.40 , -0.28 ,300,1,2,Monetary+Information
+0,1,1,0,1,SocialComparison0:Feedback1:MonetaryIncentives1:Motivation0:Information1, 0.14 , 0.07 , 0.05 , 0.27 , -0.00 ,300,1,3,Feedback + Monetary + Information 
+1,1,1,0,1,SocialComparison1:Feedback1:MonetaryIncentives1:Motivation0:Information1, 0.11 , 0.05 , 0.01 , 0.20 , 0.02 ,300,1,4,Social + Feedback + Monetary + Information 
+0,0,0,1,1,SocialComparison0:Feedback0:MonetaryIncentives0:Motivation1:Information1, 0.08 , 0.10 , 0.38 , 0.27 , -0.10 ,300,1,2,Motivation + Information 
+0,1,0,1,1,SocialComparison0:Feedback1:MonetaryIncentives0:Motivation1:Information1, 0.12 , 0.08 , 0.15 , 0.28 , -0.04 ,300,1,3,Feedback + Motivation + Information 
+1,1,0,1,1,SocialComparison1:Feedback1:MonetaryIncentives0:Motivation1:Information1, 0.10 , 0.14 , 0.49 , 0.37 , -0.18 ,300,1,4,SocialComparison1:Feedback1:MonetaryIncentives0:Motivation1:Information1
